@@ -1,0 +1,408 @@
+13.10.2025 00:10:10 shutdown: Остановка приложения
+13.10.2025 00:10:10 shutdown: Log корректно завершён
+13.10.2025 00:10:13 startup: lifespan: startup начат
+13.10.2025 00:10:13 startup: База инициализирована
+13.10.2025 00:10:14 startup: Base добавлен в app.state
+13.10.2025 00:10:14 startup: Async Log инициализирован
+13.10.2025 00:10:16 shutdown: Остановка приложения
+13.10.2025 00:10:16 shutdown: Log корректно завершён
+13.10.2025 00:43:22 startup: Импорты main.py выполнены
+13.10.2025 00:43:23 startup: Запуск uvicorn.run
+13.10.2025 00:43:26 startup: lifespan: startup начат
+13.10.2025 00:43:26 startup: База инициализирована
+13.10.2025 00:43:27 startup: Base добавлен в app.state
+13.10.2025 00:43:27 startup: Async Log инициализирован
+13.10.2025 00:44:44 shutdown: Остановка приложения
+13.10.2025 00:44:44 shutdown: Log корректно завершён
+13.10.2025 00:44:48 startup: lifespan: startup начат
+13.10.2025 00:44:48 startup: База инициализирована
+13.10.2025 00:44:48 startup: Base добавлен в app.state
+13.10.2025 00:44:48 startup: Async Log инициализирован
+13.10.2025 00:50:14 shutdown: Остановка приложения
+13.10.2025 00:50:14 shutdown: Log корректно завершён
+13.10.2025 00:50:19 startup: lifespan: startup начат
+13.10.2025 00:50:19 startup: База инициализирована
+13.10.2025 00:50:20 startup: Base добавлен в app.state
+13.10.2025 00:50:20 startup: Async Log инициализирован
+13.10.2025 00:52:14 shutdown: Остановка приложения
+13.10.2025 00:52:14 shutdown: Log корректно завершён
+13.10.2025 00:52:18 startup: lifespan: startup начат
+13.10.2025 00:52:18 startup: База инициализирована
+13.10.2025 00:52:19 startup: Base добавлен в app.state
+13.10.2025 00:52:19 startup: Async Log инициализирован
+13.10.2025 00:54:50 shutdown: Остановка приложения
+13.10.2025 00:54:50 shutdown: Log корректно завершён
+13.10.2025 00:55:58 startup: Импорты main.py выполнены
+13.10.2025 00:55:58 startup: Запуск uvicorn.run
+13.10.2025 00:56:01 startup: lifespan: startup начат
+13.10.2025 00:56:01 startup: База инициализирована
+13.10.2025 00:56:02 startup: Base добавлен в app.state
+13.10.2025 00:56:02 startup: Async Log инициализирован
+13.10.2025 01:02:22 lead: 2 лидов загружено
+13.10.2025 01:02:22 auth: WARNING: Неудачная попытка получения токена: {'username': 'admin'}
+13.10.2025 01:02:22 auth: ERROR: Ошибка при получении токена: 401: Incorrect username or password: {'username': 'admin'}
+13.10.2025 01:07:48 shutdown: Остановка приложения
+13.10.2025 01:07:48 shutdown: Log корректно завершён
+13.10.2025 01:15:07 startup: lifespan: startup начат
+13.10.2025 01:17:53 startup: lifespan: startup начат
+13.10.2025 01:17:54 startup: База инициализирована
+13.10.2025 01:17:55 startup: Base добавлен в app.state
+13.10.2025 01:17:55 startup: Async Log инициализирован
+13.10.2025 01:18:45 shutdown: Остановка приложения
+13.10.2025 01:18:45 shutdown: Log корректно завершён
+13.10.2025 01:18:48 startup: lifespan: startup начат
+13.10.2025 01:18:48 startup: База инициализирована
+13.10.2025 01:18:49 startup: Base добавлен в app.state
+13.10.2025 01:18:49 startup: Async Log инициализирован
+13.10.2025 01:19:33 shutdown: Остановка приложения
+13.10.2025 01:19:33 shutdown: Log корректно завершён
+13.10.2025 01:19:37 startup: lifespan: startup начат
+13.10.2025 01:19:37 startup: База инициализирована
+13.10.2025 01:19:38 startup: Base добавлен в app.state
+13.10.2025 01:19:38 startup: Async Log инициализирован
+13.10.2025 01:34:02 shutdown: Остановка приложения
+13.10.2025 01:34:02 shutdown: Log корректно завершён
+13.10.2025 01:34:07 startup: lifespan: startup начат
+13.10.2025 01:34:07 startup: База инициализирована
+13.10.2025 01:34:08 startup: Base добавлен в app.state
+13.10.2025 01:34:08 startup: Async Log инициализирован
+13.10.2025 01:35:39 shutdown: Остановка приложения
+13.10.2025 01:35:39 shutdown: Log корректно завершён
+13.10.2025 01:35:42 startup: lifespan: startup начат
+13.10.2025 01:35:42 startup: База инициализирована
+13.10.2025 01:35:43 startup: Base добавлен в app.state
+13.10.2025 01:35:43 startup: Async Log инициализирован
+13.10.2025 01:42:18 lead: 1 лидов загружено
+13.10.2025 01:42:19 auth: Токен выдан успешно: {'username': 'admin'}
+13.10.2025 01:44:07 lead: Лид создан: {'id': 2}
+13.10.2025 01:45:29 lead: 2 лидов загружено
+13.10.2025 01:45:30 auth: Токен выдан успешно: {'username': 'admin'}
+13.10.2025 01:47:13 lead: 2 лидов загружено
+13.10.2025 01:47:14 auth: Токен выдан успешно: {'username': 'admin'}
+13.10.2025 01:47:16 lead: 2 лидов загружено
+13.10.2025 01:47:16 auth: Токен проверен: admin
+13.10.2025 01:47:17 lead: Лид создан: {'id': 3}
+13.10.2025 01:48:04 lead: 3 лидов загружено
+13.10.2025 01:48:04 auth: Токен проверен: admin
+13.10.2025 01:48:28 lead: 3 лидов загружено
+13.10.2025 01:48:28 auth: Токен проверен: admin
+13.10.2025 01:50:18 lead: 3 лидов загружено
+13.10.2025 01:50:19 auth: Токен выдан успешно: {'username': 'user'}
+13.10.2025 01:52:13 lead: 3 лидов загружено
+13.10.2025 01:52:13 auth: Токен проверен: user
+13.10.2025 01:52:13 lead: Лид создан: {'id': 4}
+13.10.2025 01:55:04 shutdown: Остановка приложения
+13.10.2025 01:55:04 shutdown: Log корректно завершён
+13.10.2025 01:55:10 startup: lifespan: startup начат
+13.10.2025 01:55:10 startup: База инициализирована
+13.10.2025 01:55:12 startup: Base добавлен в app.state
+13.10.2025 01:55:12 startup: Async Log инициализирован
+13.10.2025 01:55:16 lead: 4 лидов загружено
+13.10.2025 01:55:16 auth: Токен проверен: user
+13.10.2025 01:56:01 lead: 4 лидов загружено
+13.10.2025 01:56:01 auth: Токен проверен: admin
+13.10.2025 01:56:54 lead: 4 лидов загружено
+13.10.2025 01:56:55 auth: Токен выдан успешно: {'username': 'admin'}
+13.10.2025 01:57:00 lead: 4 лидов загружено
+13.10.2025 01:57:00 auth: Токен проверен: admin
+13.10.2025 01:57:01 lead: Лид создан: {'id': 5}
+13.10.2025 01:57:08 lead: 5 лидов загружено
+13.10.2025 01:57:09 auth: Токен выдан успешно: {'username': 'user'}
+13.10.2025 01:58:14 lead: 5 лидов загружено
+13.10.2025 01:58:14 auth: Токен проверен: user
+13.10.2025 02:03:14 lead: 5 лидов загружено
+13.10.2025 02:03:14 auth: Токен выдан успешно: {'username': 'user'}
+13.10.2025 02:03:42 lead: 5 лидов загружено
+13.10.2025 02:03:43 auth: Токен выдан успешно: {'username': 'user'}
+13.10.2025 02:03:43 lead: 5 лидов загружено
+13.10.2025 02:03:43 auth: Токен проверен: user
+13.10.2025 02:04:31 shutdown: Остановка приложения
+13.10.2025 02:04:31 shutdown: Log корректно завершён
+13.10.2025 02:07:50 startup: lifespan: startup начат
+13.10.2025 02:07:50 startup: База инициализирована
+13.10.2025 02:07:51 startup: Base добавлен в app.state
+13.10.2025 02:07:51 startup: Async Log инициализирован
+13.10.2025 02:11:50 lead: 5 лидов загружено
+13.10.2025 02:11:50 auth: Пользователь успешно авторизован: {'username': 'user'}
+13.10.2025 02:14:05 shutdown: Остановка приложения
+13.10.2025 02:14:05 shutdown: Log корректно завершён
+13.10.2025 02:14:25 startup: Импорты main.py выполнены
+13.10.2025 02:14:25 startup: Запуск uvicorn.run
+13.10.2025 02:14:28 startup: lifespan: startup начат
+13.10.2025 02:14:28 startup: База инициализирована
+13.10.2025 02:14:29 startup: Base добавлен в app.state
+13.10.2025 02:14:29 startup: Async Log инициализирован
+13.10.2025 02:15:08 shutdown: Остановка приложения
+13.10.2025 02:15:08 shutdown: Log корректно завершён
+13.10.2025 02:16:11 startup: Импорты main.py выполнены
+13.10.2025 02:16:11 startup: Запуск uvicorn.run
+13.10.2025 02:16:14 startup: lifespan: startup начат
+13.10.2025 02:16:14 startup: База инициализирована
+13.10.2025 02:16:15 startup: Base добавлен в app.state
+13.10.2025 02:16:15 startup: Async Log инициализирован
+13.10.2025 02:17:17 shutdown: Остановка приложения
+13.10.2025 02:17:17 shutdown: Log корректно завершён
+13.10.2025 02:17:43 startup: Импорты main.py выполнены
+13.10.2025 02:17:43 startup: Запуск uvicorn.run
+13.10.2025 02:17:47 startup: lifespan: startup начат
+13.10.2025 02:17:47 startup: База инициализирована
+13.10.2025 02:17:47 startup: Base добавлен в app.state
+13.10.2025 02:17:47 startup: Async Log инициализирован
+13.10.2025 02:18:00 lead: 5 лидов загружено
+13.10.2025 02:18:01 auth: Пользователь успешно авторизован: {'username': 'admin'}
+13.10.2025 02:18:06 lead: 5 лидов загружено
+13.10.2025 02:18:07 auth: Пользователь успешно авторизован: {'username': 'user'}
+13.10.2025 02:18:45 shutdown: Остановка приложения
+13.10.2025 02:18:45 shutdown: Log корректно завершён
+13.10.2025 02:18:50 startup: lifespan: startup начат
+13.10.2025 02:18:50 startup: База инициализирована
+13.10.2025 02:18:51 startup: Base добавлен в app.state
+13.10.2025 02:18:51 startup: Async Log инициализирован
+13.10.2025 02:18:51 lead: 5 лидов загружено
+13.10.2025 02:18:51 auth: Пользователь успешно авторизован: {'user': {'id': 2, 'log': None, 'model': None, 'timestamp': '<datetime>', 'login': 'user', 'is_admin': False, 'contact': None, 'name': 'User', 'motive': None, 'needs': None, 'step': 0, 'password': '$5$rounds=535000$vA9Dm5SmevuY3mAN$pq24E17LNXXjqHY.HrDDug0QsKSF4diuV1WEU4p0W77'}}
+13.10.2025 02:20:47 lead: 5 лидов загружено
+13.10.2025 02:20:48 auth: Пользователь успешно авторизован: {'user': {'id': 2, 'log': None, 'model': None, 'timestamp': '<datetime>', 'login': 'user', 'is_admin': False, 'contact': None, 'name': 'User', 'motive': None, 'needs': None, 'step': 0, 'password': '$5$rounds=535000$vA9Dm5SmevuY3mAN$pq24E17LNXXjqHY.HrDDug0QsKSF4diuV1WEU4p0W77'}}
+13.10.2025 02:20:48 lead: 5 лидов загружено
+13.10.2025 02:20:48 auth: Токен проверен: user
+13.10.2025 02:22:59 lead: 5 лидов загружено
+13.10.2025 02:22:59 auth: Пользователь успешно авторизован: {'user': {'id': 2, 'log': None, 'model': None, 'timestamp': '<datetime>', 'login': 'user', 'is_admin': False, 'contact': None, 'name': 'User', 'motive': None, 'needs': None, 'step': 0, 'password': '$5$rounds=535000$vA9Dm5SmevuY3mAN$pq24E17LNXXjqHY.HrDDug0QsKSF4diuV1WEU4p0W77'}}
+13.10.2025 02:22:59 lead: 5 лидов загружено
+13.10.2025 02:22:59 auth: Токен проверен: user
+13.10.2025 02:25:07 lead: 5 лидов загружено
+13.10.2025 02:25:08 auth: Пользователь успешно авторизован: {'user': {'id': 2, 'log': None, 'model': None, 'timestamp': '<datetime>', 'login': 'user', 'is_admin': False, 'contact': None, 'name': 'User', 'motive': None, 'needs': None, 'step': 0, 'password': '$5$rounds=535000$vA9Dm5SmevuY3mAN$pq24E17LNXXjqHY.HrDDug0QsKSF4diuV1WEU4p0W77'}}
+13.10.2025 02:25:08 lead: 5 лидов загружено
+13.10.2025 02:25:08 auth: Токен проверен: user
+13.10.2025 02:25:36 lead: 5 лидов загружено
+13.10.2025 02:25:36 auth: Пользователь успешно авторизован: {'user': {'id': 2, 'log': None, 'model': None, 'timestamp': '<datetime>', 'login': 'user', 'is_admin': False, 'contact': None, 'name': 'User', 'motive': None, 'needs': None, 'step': 0, 'password': '$5$rounds=535000$vA9Dm5SmevuY3mAN$pq24E17LNXXjqHY.HrDDug0QsKSF4diuV1WEU4p0W77'}}
+13.10.2025 02:25:44 lead: 5 лидов загружено
+13.10.2025 02:25:45 auth: Пользователь успешно авторизован: {'user': {'id': 2, 'log': None, 'model': None, 'timestamp': '<datetime>', 'login': 'user', 'is_admin': False, 'contact': None, 'name': 'User', 'motive': None, 'needs': None, 'step': 0, 'password': '$5$rounds=535000$vA9Dm5SmevuY3mAN$pq24E17LNXXjqHY.HrDDug0QsKSF4diuV1WEU4p0W77'}}
+13.10.2025 02:25:45 auth: WARNING: Неверный токен
+13.10.2025 02:28:42 lead: 5 лидов загружено
+13.10.2025 02:28:43 auth: Пользователь успешно авторизован: {'user': {'id': 2, 'log': None, 'model': None, 'timestamp': '<datetime>', 'login': 'user', 'is_admin': False, 'contact': None, 'name': 'User', 'motive': None, 'needs': None, 'step': 0, 'password': '$5$rounds=535000$vA9Dm5SmevuY3mAN$pq24E17LNXXjqHY.HrDDug0QsKSF4diuV1WEU4p0W77'}}
+13.10.2025 02:28:43 auth: WARNING: Неверный токен
+13.10.2025 02:28:52 lead: 5 лидов загружено
+13.10.2025 02:28:52 auth: Пользователь успешно авторизован: {'user': {'id': 2, 'log': None, 'model': None, 'timestamp': '<datetime>', 'login': 'user', 'is_admin': False, 'contact': None, 'name': 'User', 'motive': None, 'needs': None, 'step': 0, 'password': '$5$rounds=535000$vA9Dm5SmevuY3mAN$pq24E17LNXXjqHY.HrDDug0QsKSF4diuV1WEU4p0W77'}}
+13.10.2025 02:28:52 lead: 5 лидов загружено
+13.10.2025 02:28:52 auth: Токен проверен: user
+13.10.2025 02:30:08 lead: 5 лидов загружено
+13.10.2025 02:30:09 auth: Пользователь успешно авторизован: {'user': {'id': 2, 'log': None, 'model': None, 'timestamp': '<datetime>', 'login': 'user', 'is_admin': False, 'contact': None, 'name': 'User', 'motive': None, 'needs': None, 'step': 0, 'password': '$5$rounds=535000$vA9Dm5SmevuY3mAN$pq24E17LNXXjqHY.HrDDug0QsKSF4diuV1WEU4p0W77'}}
+13.10.2025 02:30:09 lead: 5 лидов загружено
+13.10.2025 02:30:09 auth: Токен проверен: user
+13.10.2025 02:30:09 lead: Лид обновлён: {'id': 2}
+13.10.2025 02:33:43 shutdown: Остановка приложения
+13.10.2025 02:33:43 shutdown: Log корректно завершён
+13.10.2025 02:33:49 startup: lifespan: startup начат
+13.10.2025 02:33:49 startup: База инициализирована
+13.10.2025 02:33:50 startup: Base добавлен в app.state
+13.10.2025 02:33:50 startup: Async Log инициализирован
+13.10.2025 02:33:50 lead: 5 лидов загружено
+13.10.2025 02:33:50 auth: WARNING: Неудачная попытка входа: {'username': 'user'}
+13.10.2025 02:33:50 auth: ERROR: Ошибка при получении токена: 401: Неверный логин или пароль: {'username': 'user'}
+13.10.2025 02:33:50 lead: 5 лидов загружено
+13.10.2025 02:33:59 lead: 5 лидов загружено
+13.10.2025 02:33:59 auth: Пользователь успешно авторизован: {'user': {'id': 2, 'log': None, 'model': None, 'timestamp': '<datetime>', 'login': 'user_1', 'is_admin': None, 'motive': None, 'name': 'User', 'contact': None, 'needs': None, 'step': 0, 'password': '$5$rounds=535000$vA9Dm5SmevuY3mAN$pq24E17LNXXjqHY.HrDDug0QsKSF4diuV1WEU4p0W77'}}
+13.10.2025 02:33:59 lead: 5 лидов загружено
+13.10.2025 02:33:59 auth: Токен проверен: user_1
+13.10.2025 02:33:59 lead: Лид обновлён: {'id': 2}
+13.10.2025 02:35:19 shutdown: Остановка приложения
+13.10.2025 02:35:19 shutdown: Log корректно завершён
+13.10.2025 02:35:23 startup: lifespan: startup начат
+13.10.2025 02:35:23 startup: База инициализирована
+13.10.2025 02:35:24 startup: Base добавлен в app.state
+13.10.2025 02:35:24 startup: Async Log инициализирован
+13.10.2025 02:35:28 lead: 5 лидов загружено
+13.10.2025 02:35:28 auth: WARNING: Неудачная попытка входа: {'username': 'user'}
+13.10.2025 02:35:28 auth: ERROR: Ошибка при получении токена: 401: Неверный логин или пароль: {'username': 'user'}
+13.10.2025 02:35:28 lead: 5 лидов загружено
+13.10.2025 02:35:28 auth: Токен проверен: user_1
+13.10.2025 02:37:31 lead: 5 лидов загружено
+13.10.2025 02:37:31 auth: Пользователь успешно авторизован: {'user': {'id': 2, 'log': None, 'model': None, 'timestamp': '<datetime>', 'login': 'user_1', 'is_admin': None, 'name': 'User', 'contact': None, 'motive': None, 'needs': None, 'step': 0, 'password': '$5$rounds=535000$vA9Dm5SmevuY3mAN$pq24E17LNXXjqHY.HrDDug0QsKSF4diuV1WEU4p0W77'}}
+13.10.2025 02:37:31 lead: 5 лидов загружено
+13.10.2025 02:37:31 auth: Токен проверен: user_1
+13.10.2025 02:37:32 lead: Лид обновлён: {'id': 2}
+13.10.2025 02:44:36 shutdown: Остановка приложения
+13.10.2025 02:44:36 shutdown: Log корректно завершён
+13.10.2025 02:44:40 startup: lifespan: startup начат
+13.10.2025 02:44:40 startup: База инициализирована
+13.10.2025 02:44:41 startup: Base добавлен в app.state
+13.10.2025 02:44:41 startup: Async Log инициализирован
+13.10.2025 02:44:54 lead: 5 лидов загружено
+13.10.2025 02:44:55 auth: Пользователь успешно авторизован: {'user': {'id': 2, 'log': None, 'model': None, 'timestamp': '<datetime>', 'login': 'user_1', 'is_admin': None, 'motive': None, 'name': 'User', 'contact': None, 'needs': None, 'step': 0, 'password': '$5$rounds=535000$vA9Dm5SmevuY3mAN$pq24E17LNXXjqHY.HrDDug0QsKSF4diuV1WEU4p0W77'}}
+13.10.2025 02:44:55 lead: 5 лидов загружено
+13.10.2025 02:44:55 auth: Токен проверен: user_1
+13.10.2025 02:44:55 lead: Лид обновлён: {'id': 2}
+13.10.2025 02:50:25 shutdown: Остановка приложения
+13.10.2025 02:50:25 shutdown: Log корректно завершён
+13.10.2025 02:50:29 startup: lifespan: startup начат
+13.10.2025 02:50:29 startup: База инициализирована
+13.10.2025 02:50:29 startup: Base добавлен в app.state
+13.10.2025 02:50:29 startup: Async Log инициализирован
+13.10.2025 02:50:37 lead: 5 лидов загружено
+13.10.2025 02:50:38 auth: Пользователь успешно авторизован: {'user': {'id': 2, 'log': None, 'model': None, 'timestamp': '<datetime>', 'login': 'user_1', 'is_admin': None, 'contact': None, 'name': 'User', 'motive': None, 'needs': None, 'step': 0, 'password': '$5$rounds=535000$vA9Dm5SmevuY3mAN$pq24E17LNXXjqHY.HrDDug0QsKSF4diuV1WEU4p0W77'}}
+13.10.2025 02:50:38 lead: 5 лидов загружено
+13.10.2025 02:50:38 auth: Токен проверен: user_1
+13.10.2025 02:50:38 lead: Лид загружен: {'id': 2}
+13.10.2025 02:51:03 lead: 5 лидов загружено
+13.10.2025 02:51:04 auth: Пользователь успешно авторизован: {'user': {'id': 2, 'log': None, 'model': None, 'timestamp': '<datetime>', 'login': 'user_1', 'is_admin': None, 'contact': None, 'name': 'User', 'motive': None, 'needs': None, 'step': 0, 'password': '$5$rounds=535000$vA9Dm5SmevuY3mAN$pq24E17LNXXjqHY.HrDDug0QsKSF4diuV1WEU4p0W77'}}
+13.10.2025 02:51:04 lead: 5 лидов загружено
+13.10.2025 02:51:04 auth: Токен проверен: user_1
+13.10.2025 02:51:04 lead: Лид загружен: {'id': 2}
+13.10.2025 02:57:51 shutdown: Остановка приложения
+13.10.2025 02:57:51 shutdown: Log корректно завершён
+13.10.2025 02:57:54 startup: lifespan: startup начат
+13.10.2025 02:57:54 startup: База инициализирована
+13.10.2025 02:57:55 startup: Base добавлен в app.state
+13.10.2025 02:57:55 startup: Async Log инициализирован
+13.10.2025 02:58:06 lead: 5 лидов загружено
+13.10.2025 02:58:06 auth: Пользователь успешно авторизован: {'user': {'id': 2, 'log': None, 'model': None, 'timestamp': '<datetime>', 'login': 'user_1', 'is_admin': None, 'contact': None, 'name': 'User', 'motive': None, 'needs': None, 'step': 0, 'password': '$5$rounds=535000$vA9Dm5SmevuY3mAN$pq24E17LNXXjqHY.HrDDug0QsKSF4diuV1WEU4p0W77'}}
+13.10.2025 02:58:06 lead: 5 лидов загружено
+13.10.2025 02:58:06 auth: Токен проверен: user_1
+13.10.2025 02:58:06 lead: Лид загружен: {'id': 2}
+13.10.2025 03:00:43 lead: 5 лидов загружено
+13.10.2025 03:00:43 auth: WARNING: Неудачная попытка входа: {'username': 'user'}
+13.10.2025 03:00:43 auth: ERROR: Ошибка при получении токена: 401: Неверный логин или пароль: {'username': 'user'}
+13.10.2025 03:00:43 lead: 5 лидов загружено
+13.10.2025 03:00:43 auth: Токен проверен: user_1
+13.10.2025 03:01:08 lead: 5 лидов загружено
+13.10.2025 03:01:08 auth: Пользователь успешно авторизован: {'user': {'id': 2, 'log': None, 'model': None, 'timestamp': '<datetime>', 'login': 'user_1', 'is_admin': None, 'contact': None, 'name': 'User', 'motive': None, 'needs': None, 'step': 0, 'password': '$5$rounds=535000$vA9Dm5SmevuY3mAN$pq24E17LNXXjqHY.HrDDug0QsKSF4diuV1WEU4p0W77'}}
+13.10.2025 03:01:08 lead: 5 лидов загружено
+13.10.2025 03:01:08 auth: Токен проверен: user_1
+13.10.2025 03:01:08 lead: Лид загружен: {'id': 2}
+13.10.2025 03:02:06 lead: 5 лидов загружено
+13.10.2025 03:02:07 auth: Пользователь успешно авторизован: {'user': {'id': 2, 'log': None, 'model': None, 'timestamp': '<datetime>', 'login': 'user', 'is_admin': None, 'contact': None, 'name': 'User', 'motive': None, 'needs': None, 'step': 0, 'password': '$5$rounds=535000$vA9Dm5SmevuY3mAN$pq24E17LNXXjqHY.HrDDug0QsKSF4diuV1WEU4p0W77'}}
+13.10.2025 03:02:07 lead: 5 лидов загружено
+13.10.2025 03:02:07 auth: Токен проверен: user
+13.10.2025 03:02:07 lead: Лид загружен: {'id': 2}
+13.10.2025 03:05:01 lead: 5 лидов загружено
+13.10.2025 03:05:01 auth: WARNING: Неудачная попытка входа: {'username': 'user_2'}
+13.10.2025 03:05:01 auth: ERROR: Ошибка при получении токена: 401: Неверный логин или пароль: {'username': 'user_2'}
+13.10.2025 03:05:01 auth: WARNING: Неверный токен
+13.10.2025 03:06:00 lead: 5 лидов загружено
+13.10.2025 03:06:01 auth: WARNING: Неудачная попытка входа: {'username': 'user_2'}
+13.10.2025 03:06:01 auth: ERROR: Ошибка при получении токена: 401: Неверный логин или пароль: {'username': 'user_2'}
+13.10.2025 03:06:01 auth: WARNING: Неверный токен
+13.10.2025 03:06:32 lead: 5 лидов загружено
+13.10.2025 03:06:32 auth: WARNING: Неудачная попытка входа: {'username': 'user_2'}
+13.10.2025 03:06:32 auth: ERROR: Ошибка при получении токена: 401: Неверный логин или пароль: {'username': 'user_2'}
+13.10.2025 03:06:32 auth: WARNING: Неверный токен
+13.10.2025 03:06:38 lead: 5 лидов загружено
+13.10.2025 03:06:38 auth: WARNING: Неудачная попытка входа: {'username': 'user_2'}
+13.10.2025 03:06:38 auth: ERROR: Ошибка при получении токена: 401: Неверный логин или пароль: {'username': 'user_2'}
+13.10.2025 03:06:38 auth: WARNING: Неверный токен
+13.10.2025 03:07:37 lead: 5 лидов загружено
+13.10.2025 03:07:37 auth: Пользователь успешно авторизован: {'user': {'id': 5, 'log': None, 'model': None, 'timestamp': '<datetime>', 'login': 'user_2', 'is_admin': False, 'contact': None, 'name': 'User_2', 'motive': None, 'needs': None, 'step': 0, 'password': '$5$rounds=535000$1QUP9VOQbRKrUiDp$CHcAnP6ESjAyuvA1tVrayLnc4.Qe1yBwXrcivh1K.p/'}}
+13.10.2025 03:07:38 lead: 5 лидов загружено
+13.10.2025 03:07:38 auth: Токен проверен: user_2
+13.10.2025 03:07:38 lead: Лид удалён: {'id': 5}
+13.10.2025 03:08:11 shutdown: Остановка приложения
+13.10.2025 03:08:11 shutdown: Log корректно завершён
+13.10.2025 03:14:31 startup: Импорты main.py выполнены
+13.10.2025 03:14:31 startup: Запуск uvicorn.run
+13.10.2025 03:14:34 startup: lifespan: startup начат
+13.10.2025 03:14:35 startup: База инициализирована
+13.10.2025 03:14:35 startup: Base добавлен в app.state
+13.10.2025 03:14:35 startup: Async Log инициализирован
+13.10.2025 03:21:08 lead: 4 лидов загружено
+13.10.2025 03:21:08 auth: Пользователь успешно авторизован: {'user': {'id': 1, 'log': None, 'model': None, 'timestamp': '<datetime>', 'login': 'admin', 'is_admin': True, 'motive': None, 'contact': None, 'name': 'Administrator', 'needs': None, 'step': 0, 'password': '$5$rounds=535000$UCH6OSVDqBSDNxGz$MOmV/IshAtdQp7V38tpdi.6JMAZ2yHU3Cy/DkLU8GEB'}}
+13.10.2025 03:21:08 lead: 4 лидов загружено
+13.10.2025 03:21:08 auth: Токен проверен: admin
+13.10.2025 03:21:08 lead: 4 лидов загружено
+13.10.2025 03:21:27 lead: 4 лидов загружено
+13.10.2025 03:21:28 auth: Пользователь успешно авторизован: {'user': {'id': 1, 'log': None, 'model': None, 'timestamp': '<datetime>', 'login': 'admin', 'is_admin': True, 'motive': None, 'contact': None, 'name': 'Administrator', 'needs': None, 'step': 0, 'password': '$5$rounds=535000$UCH6OSVDqBSDNxGz$MOmV/IshAtdQp7V38tpdi.6JMAZ2yHU3Cy/DkLU8GEB'}}
+13.10.2025 03:21:28 lead: 4 лидов загружено
+13.10.2025 03:21:28 auth: Токен проверен: admin
+13.10.2025 03:21:28 lead: 4 лидов загружено
+13.10.2025 03:22:46 lead: 4 лидов загружено
+13.10.2025 03:22:46 auth: Пользователь успешно авторизован: {'user': {'id': 1, 'log': None, 'model': None, 'timestamp': '<datetime>', 'login': 'admin', 'is_admin': True, 'motive': None, 'contact': None, 'name': 'Administrator', 'needs': None, 'step': 0, 'password': '$5$rounds=535000$UCH6OSVDqBSDNxGz$MOmV/IshAtdQp7V38tpdi.6JMAZ2yHU3Cy/DkLU8GEB'}}
+13.10.2025 03:22:46 lead: 4 лидов загружено
+13.10.2025 03:22:46 auth: Токен проверен: admin
+13.10.2025 03:22:46 lead: 4 лидов загружено
+13.10.2025 03:22:46 lead: 4 лидов загружено
+13.10.2025 03:22:47 auth: Пользователь успешно авторизован: {'user': {'id': 2, 'log': None, 'model': None, 'timestamp': '<datetime>', 'login': 'user', 'is_admin': None, 'motive': None, 'contact': None, 'name': 'UpdatedUser1', 'needs': None, 'step': 0, 'password': '$5$rounds=535000$vA9Dm5SmevuY3mAN$pq24E17LNXXjqHY.HrDDug0QsKSF4diuV1WEU4p0W77'}}
+13.10.2025 03:22:47 lead: 4 лидов загружено
+13.10.2025 03:22:47 auth: Токен проверен: user
+13.10.2025 03:23:38 lead: 4 лидов загружено
+13.10.2025 03:23:39 auth: Пользователь успешно авторизован: {'user': {'id': 1, 'log': None, 'model': None, 'timestamp': '<datetime>', 'login': 'admin', 'is_admin': True, 'motive': None, 'contact': None, 'name': 'Administrator', 'needs': None, 'step': 0, 'password': '$5$rounds=535000$UCH6OSVDqBSDNxGz$MOmV/IshAtdQp7V38tpdi.6JMAZ2yHU3Cy/DkLU8GEB'}}
+13.10.2025 03:23:39 lead: 4 лидов загружено
+13.10.2025 03:23:39 auth: Токен проверен: admin
+13.10.2025 03:23:39 lead: 4 лидов загружено
+13.10.2025 03:23:39 lead: 4 лидов загружено
+13.10.2025 03:23:40 auth: Пользователь успешно авторизован: {'user': {'id': 2, 'log': None, 'model': None, 'timestamp': '<datetime>', 'login': 'user', 'is_admin': None, 'motive': None, 'contact': None, 'name': 'UpdatedUser1', 'needs': None, 'step': 0, 'password': '$5$rounds=535000$vA9Dm5SmevuY3mAN$pq24E17LNXXjqHY.HrDDug0QsKSF4diuV1WEU4p0W77'}}
+13.10.2025 03:23:40 lead: 4 лидов загружено
+13.10.2025 03:23:40 auth: Токен проверен: user
+13.10.2025 03:23:51 lead: 4 лидов загружено
+13.10.2025 03:23:51 auth: Пользователь успешно авторизован: {'user': {'id': 1, 'log': None, 'model': None, 'timestamp': '<datetime>', 'login': 'admin', 'is_admin': True, 'motive': None, 'contact': None, 'name': 'Administrator', 'needs': None, 'step': 0, 'password': '$5$rounds=535000$UCH6OSVDqBSDNxGz$MOmV/IshAtdQp7V38tpdi.6JMAZ2yHU3Cy/DkLU8GEB'}}
+13.10.2025 03:23:51 lead: 4 лидов загружено
+13.10.2025 03:23:51 auth: Токен проверен: admin
+13.10.2025 03:23:51 lead: 4 лидов загружено
+13.10.2025 03:24:21 lead: 4 лидов загружено
+13.10.2025 03:24:22 auth: Пользователь успешно авторизован: {'user': {'id': 1, 'log': None, 'model': None, 'timestamp': '<datetime>', 'login': 'admin', 'is_admin': True, 'motive': None, 'contact': None, 'name': 'Administrator', 'needs': None, 'step': 0, 'password': '$5$rounds=535000$UCH6OSVDqBSDNxGz$MOmV/IshAtdQp7V38tpdi.6JMAZ2yHU3Cy/DkLU8GEB'}}
+13.10.2025 03:24:22 lead: 4 лидов загружено
+13.10.2025 03:24:22 auth: Токен проверен: admin
+13.10.2025 03:24:22 lead: 4 лидов загружено
+13.10.2025 03:24:22 lead: 4 лидов загружено
+13.10.2025 03:24:23 auth: Пользователь успешно авторизован: {'user': {'id': 2, 'log': None, 'model': None, 'timestamp': '<datetime>', 'login': 'user', 'is_admin': None, 'motive': None, 'contact': None, 'name': 'UpdatedUser1', 'needs': None, 'step': 0, 'password': '$5$rounds=535000$vA9Dm5SmevuY3mAN$pq24E17LNXXjqHY.HrDDug0QsKSF4diuV1WEU4p0W77'}}
+13.10.2025 03:24:23 lead: 4 лидов загружено
+13.10.2025 03:24:23 auth: Токен проверен: user
+13.10.2025 03:28:05 lead: 4 лидов загружено
+13.10.2025 03:28:06 auth: Пользователь успешно авторизован: {'user': {'id': 2, 'log': None, 'model': None, 'timestamp': '<datetime>', 'login': 'user', 'is_admin': None, 'motive': None, 'contact': None, 'name': 'UpdatedUser1', 'needs': None, 'step': 0, 'password': '$5$rounds=535000$vA9Dm5SmevuY3mAN$pq24E17LNXXjqHY.HrDDug0QsKSF4diuV1WEU4p0W77'}}
+13.10.2025 03:28:06 lead: 4 лидов загружено
+13.10.2025 03:28:06 auth: Токен проверен: user
+13.10.2025 03:28:06 lead: Лид загружен: {'id': 2}
+13.10.2025 03:28:06 lead: 4 лидов загружено
+13.10.2025 03:28:06 auth: WARNING: Неудачная попытка входа: {'username': 'user_2'}
+13.10.2025 03:28:06 auth: ERROR: Ошибка при получении токена: 401: Неверный логин или пароль: {'username': 'user_2'}
+13.10.2025 03:28:06 auth: WARNING: Неверный токен
+13.10.2025 03:29:45 lead: 4 лидов загружено
+13.10.2025 03:29:45 auth: Пользователь успешно авторизован: {'user': {'id': 2, 'log': None, 'model': None, 'timestamp': '<datetime>', 'login': 'user', 'is_admin': None, 'motive': None, 'contact': None, 'name': 'UpdatedUser1', 'needs': None, 'step': 0, 'password': '$5$rounds=535000$vA9Dm5SmevuY3mAN$pq24E17LNXXjqHY.HrDDug0QsKSF4diuV1WEU4p0W77'}}
+13.10.2025 03:29:45 lead: 4 лидов загружено
+13.10.2025 03:29:45 auth: Токен проверен: user
+13.10.2025 03:29:45 lead: Лид загружен: {'id': 2}
+13.10.2025 03:29:45 lead: 4 лидов загружено
+13.10.2025 03:29:46 auth: Пользователь успешно авторизован: {'user': {'id': 3, 'log': None, 'model': None, 'timestamp': '<datetime>', 'login': 'user2', 'is_admin': False, 'motive': None, 'contact': None, 'name': 'User2', 'needs': None, 'step': 0, 'password': '$5$rounds=535000$PSBToR.V.NnWwxVS$pEfsok8SYdHbEBE.XR3.Ub61YyqIDlZBIgu.LbvS96.'}}
+13.10.2025 03:29:46 lead: 4 лидов загружено
+13.10.2025 03:29:46 auth: Токен проверен: user2
+13.10.2025 03:29:46 lead: Лид загружен: {'id': 3}
+13.10.2025 03:30:22 lead: 4 лидов загружено
+13.10.2025 03:30:23 auth: Пользователь успешно авторизован: {'user': {'id': 2, 'log': None, 'model': None, 'timestamp': '<datetime>', 'login': 'user', 'is_admin': None, 'motive': None, 'contact': None, 'name': 'UpdatedUser1', 'needs': None, 'step': 0, 'password': '$5$rounds=535000$vA9Dm5SmevuY3mAN$pq24E17LNXXjqHY.HrDDug0QsKSF4diuV1WEU4p0W77'}}
+13.10.2025 03:30:23 lead: 4 лидов загружено
+13.10.2025 03:30:23 auth: Токен проверен: user
+13.10.2025 03:30:23 lead: Лид загружен: {'id': 2}
+13.10.2025 03:30:23 lead: 4 лидов загружено
+13.10.2025 03:30:23 auth: Пользователь успешно авторизован: {'user': {'id': 3, 'log': None, 'model': None, 'timestamp': '<datetime>', 'login': 'user2', 'is_admin': False, 'motive': None, 'contact': None, 'name': 'User2', 'needs': None, 'step': 0, 'password': '$5$rounds=535000$PSBToR.V.NnWwxVS$pEfsok8SYdHbEBE.XR3.Ub61YyqIDlZBIgu.LbvS96.'}}
+13.10.2025 03:30:23 lead: 4 лидов загружено
+13.10.2025 03:30:23 auth: Токен проверен: user
+13.10.2025 03:30:23 lead: Лид загружен: {'id': 3}
+13.10.2025 03:32:09 shutdown: Остановка приложения
+13.10.2025 03:32:09 shutdown: Log корректно завершён
+13.10.2025 03:32:24 startup: Импорты main.py выполнены
+13.10.2025 03:32:24 startup: Запуск uvicorn.run
+13.10.2025 03:32:30 startup: lifespan: startup начат
+13.10.2025 03:32:30 startup: База инициализирована
+13.10.2025 03:32:32 startup: Base добавлен в app.state
+13.10.2025 03:32:32 startup: Async Log инициализирован
+13.10.2025 03:32:41 lead: 4 лидов загружено
+13.10.2025 03:32:42 auth: Пользователь успешно авторизован: {'user': {'id': 1, 'log': None, 'model': None, 'timestamp': '<datetime>', 'login': 'admin', 'is_admin': True, 'motive': None, 'name': 'Administrator', 'contact': None, 'needs': None, 'step': 0, 'password': '$5$rounds=535000$UCH6OSVDqBSDNxGz$MOmV/IshAtdQp7V38tpdi.6JMAZ2yHU3Cy/DkLU8GEB'}}
+13.10.2025 03:32:48 lead: 4 лидов загружено
+13.10.2025 03:32:48 auth: Токен проверен: admin
+13.10.2025 03:32:48 lead: Лид загружен: {'id': 1}
+13.10.2025 03:32:48 lead: Лид обновлён: {'id': 1}
+13.10.2025 03:32:48 dialog: Лид очищен: {'lead_id': 1}
+13.10.2025 03:32:48 dialog: История диалога очищена: {'client_id': 1}
+13.10.2025 03:33:05 lead: 4 лидов загружено
+13.10.2025 03:33:05 auth: Токен проверен: admin
+13.10.2025 03:33:05 dialog_step: START step(): {'client_id': 1, 'user_input': 'Привет'}
+13.10.2025 03:33:05 lead: Лид загружен: {'id': 1}
+13.10.2025 03:33:05 dialog_step: : {'step_before': 0, 'motive': None}
+13.10.2025 03:33:05 dialog_step: : {'user': 'Привет'}
+13.10.2025 03:33:05 hello_stage: Сформирован промпт приветствия: {'step': 0, 'client_id': 1}
+13.10.2025 03:33:05 dispatcher: Выбранный агент: hello: {'client_id': 1}
+13.10.2025 03:33:06 dialog_step: Добавлен контекст из базы: {'chunks_count': 3}
+13.10.2025 03:33:09 dialog_step: : {'step_after': 1, 'motive': None}
+13.10.2025 03:33:09 dialog_step: : {'model': 'Здравствуйте! Я — ваш виртуальный помощник Relaxio. Готов познакомить вас с нашими креслами и их преимуществами. Какую мотивацию вы преследуете, выбирая кресло — комфорт, здоровье или, может быть, подарок?'}
+13.10.2025 03:33:09 lead: Лид обновлён: {'id': 1}
+13.10.2025 03:33:09 dialog_step: Ассистентский ответ добавлен и сохранён: {'assistant_text': 'Здравствуйте! Я — ваш виртуальный помощник Relaxio. Готов познакомить вас с нашими креслами и их преимуществами. Какую мотивацию вы преследуете, выбирая кресло — комфорт, здоровье или, может быть, подарок?'}
+13.10.2025 03:33:09 dialog_step: END step(): {'result': 'Здравствуйте! Я — ваш виртуальный помощник Relaxio. Готов познакомить вас с нашими креслами и их преимуществами. Какую мотивацию вы преследуете, выбирая кресло — комфорт, здоровье или, может быть, подарок?'}
+13.10.2025 03:33:09 dialog: Шаг диалога обработан: {'client_id': 1}
+13.10.2025 04:09:10 shutdown: Остановка приложения
+13.10.2025 04:09:10 shutdown: Log корректно завершён
