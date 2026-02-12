@@ -1,2 +1,2 @@
-# erizov-FastApi-Final
+# TestLockBranch-FastApi-Final
 Финальный мини-проект (FastAPI + React SPA)
